@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://d4rkvista.github.io/sitemap.xml
